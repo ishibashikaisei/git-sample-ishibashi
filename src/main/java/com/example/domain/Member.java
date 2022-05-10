@@ -2,7 +2,7 @@ package com.example.domain;
 
 public class Member {
 	String name;
-
+	int abc;
 	@Override
 	public String toString() {
 		return "Member [name=" + name + "]";
