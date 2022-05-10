@@ -3,7 +3,9 @@ package com.example.domain;
 public class Member {
 	String name;
 
+
 	String gen;
+
 
 
 	int abc;
