@@ -2,12 +2,12 @@ package com.example.domain;
 
 public class Member {
 	String name;
-<<<<<<< HEAD
-	String gender;
 
-=======
+	String der;
+
+
 	int abc;
->>>>>>> develop
+
 	@Override
 	public String toString() {
 		return "Member [name=" + name + "]";
