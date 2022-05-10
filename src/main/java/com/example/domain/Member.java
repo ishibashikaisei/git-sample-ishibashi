@@ -2,6 +2,7 @@ package com.example.domain;
 
 public class Member {
 	String name;
+	String gender;
 
 	@Override
 	public String toString() {
@@ -14,6 +15,7 @@ public class Member {
 
 	public void setName(String name) {
 		this.name = name;
+		
 	}
 
 }
